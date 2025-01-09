@@ -1,0 +1,8 @@
+__pycache__/
+**/__pycache__/
+changelog.txt
+Trash
+tes*
+*.db
+app/models/database/hanime/thumbnails/*
+app/models/database/hanime/covers/*

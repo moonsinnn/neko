@@ -1,0 +1,13 @@
+beautifulsoup4
+Flask
+Flask-Minify
+flask-paginate
+Flask-SQLAlchemy
+Jinja2
+python-dotenv
+requests
+rich
+SQLAlchemy
+trycast
+urllib3
+virtualenv
